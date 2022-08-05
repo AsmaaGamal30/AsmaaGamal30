@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Asmaa Gamal
 - 👀 FCI
 - 🌱 CS department
-- 💞️ junior flutter developer
-- 📫 www.twitter.com/AsmaaGamal30
 - 📫 asmagamal311@gmail.com
 
 
