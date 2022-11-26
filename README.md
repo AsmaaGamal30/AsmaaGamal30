@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Asmaa Gamal
-- 👀 FCI
-- 🌱 CS department
+- 👩🏻‍💻 Hi, I’m Asmaa Gamal
+- 👀 A third year computer science student with interests in backend development. Skilled in PHP, Laravel, and MySQL. Ex Flutter developer
 - 📫 asmagamal311@gmail.com
 
 
