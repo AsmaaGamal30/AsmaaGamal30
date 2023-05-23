@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaagamal30&label=Profile%20views&color=0e75b6&style=flat" alt="asmaagamal30" /> </p>
 
-🔭 I’m currently working on [MVC Framework](https://github.com/AsmaaGamal30/mvc-framework)
 
 🌱 I’m currently learning **Laravel**
 
