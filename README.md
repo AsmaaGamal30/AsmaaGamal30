@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asmaa Gamal 👩‍💻</h1>
-<h3 align="center">A passionate Backend Developer who is always curious and loves to learn new things 🐈</h3>
+<h1 align="center">Hi, I'm Asmaa Gamal 👩‍💻</h1>
+<h3 align="center">A passionate Backend Developer who is always curious and loves to learn new things </h3>
 
 <p align="left"> <a href="https://twitter.com/asmaagamal30" target="blank"><img src="https://img.shields.io/twitter/follow/asmaagamal30?logo=twitter&style=for-the-badge" alt="asmaagamal30" /></a> </p>
 
