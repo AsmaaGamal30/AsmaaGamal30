@@ -8,8 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaagamal30&label=Profile%20views&color=0e75b6&style=flat" alt="asmaagamal30" /> </p>
 
 
-🌱 I’m currently learning **Laravel**
-
 💬 Ask me about **Laravel, PHP, MySQL**
 
 📫 How to reach me **asmagamal311@gmail.com**
